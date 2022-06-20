@@ -18,7 +18,7 @@ I'm just trying to figure out how this works :ghost: :ghost:
 
     2. Rooms with same ID can be added multiple times - Backend Validation
 
-    3. End date should always happen after the start date, unit add - Backend Validation
+    3. End date should always happen after the start date, unit add - Backend Validation - Fixed
 
     4. Phone number unit add validation for number of digits - Fixed
 
